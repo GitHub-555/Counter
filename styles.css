@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #E3F6FF;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 15%;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 7rem;
+    text-align: center;
+    padding-top: 10px;
+    color: green;
+}
+
+.btn {
+    margin: auto 10px;
+}
